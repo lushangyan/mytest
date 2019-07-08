@@ -18,4 +18,10 @@ public class HelloWorldController {
     public String sayHehe(){
         return "hehe";
     }
+
+
+    @RequestMapping("/haha")
+    public String sayHaha(){
+        return "haha";
+    }
 }
