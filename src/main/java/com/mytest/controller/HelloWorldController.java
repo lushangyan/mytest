@@ -11,4 +11,11 @@ public class HelloWorldController {
     public String sayHello(){
         return "你好sayHello";
     }
+
+
+
+    @RequestMapping("/hehe")
+    public String sayHehe(){
+        return "hehe";
+    }
 }
