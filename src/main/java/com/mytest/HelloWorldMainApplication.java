@@ -13,7 +13,7 @@ public class HelloWorldMainApplication {
 
     public static void main(String[] args) {
 
-        // Spring应用启动起来
+        // Spring应用启动起来 好用
         SpringApplication.run(HelloWorldMainApplication.class,args);
     }
 }
