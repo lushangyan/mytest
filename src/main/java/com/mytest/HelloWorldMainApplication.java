@@ -15,5 +15,6 @@ public class HelloWorldMainApplication {
 
         // Spring应用启动起来 好用
         SpringApplication.run(HelloWorldMainApplication.class,args);
+        //嘻嘻
     }
 }
